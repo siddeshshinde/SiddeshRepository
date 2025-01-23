@@ -1,3 +1,3 @@
 # SiddeshRepository
 </br>
-Author- Siddesh Shinde
+Author- Siddesh
